@@ -2,16 +2,12 @@
 
 ## Introduction
 
-cbValidation is the server-side validation engine for ColdBox applicationsThis module is a server-side rules validation engine that can provide you with a unified approach to object, struct, and form validation. You can construct validation constraint rules and then tell the engine to validate them accordingly. You can also create validation profiles to create a more complex validation schema for fields.
+`cfMigrations` is a module that provides schema migrations for ColdBox applications. It allows developers to easily migrate, rollback, and refresh their database schema, either directly from the application or via the CLI CommandBox Module.
 
 ### System Requirements <a href="#system-requirements" id="system-requirements"></a>
 
 * Lucee 5+
 * ColdFusion 2018+
-
-### Introduction <a href="#introduction" id="introduction"></a>
-
-ColdBox validation is based on a way to declaratively specify validation rules for **properties** or **fields** in an object or form. The **constraints** can exist inside of the target object or you can define object and form constraints in your ColdBox [configuration file](https://app.gitbook.com/o/-LA-UVKtPMvMR4t5JRTB/s/sb0wq8dVmJlt8ukgRJyd/overview/declaring-constraints/configuration-file) so you can reuse validation constraints or as we call them: **shared constraints**. You can also create validation constraints on the fly or store them pretty much anywhere you like.You can then use 2 simple validation methods and report on the results: `validate(), validateOrFail()`
 
 ### Professional Open Source <a href="#professional-open-source" id="professional-open-source"></a>
 

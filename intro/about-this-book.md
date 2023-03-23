@@ -1,6 +1,6 @@
 # About This Book
 
-The source code for this book is hosted in GitHub: [https://github.com/ortus-docs/cbvalidation-docs](https://github.com/ortus-docs/cbvalidation-docs). You can freely contribute to it and submit pull requests. The contents of this book is copyrighted by [Ortus Solutions, Corp](http://www.ortussolutions.com/) and cannot be altered or reproduced without the author's consent. All content is provided _"As-Is"_ and can be freely distributed.
+The source code for this book is hosted in GitHub: [https://github.com/ortus-docs/cfmigrations-docs](https://github.com/ortus-docs/cfmigrations-docs). You can freely contribute to it and submit pull requests. The contents of this book is copyrighted by [Ortus Solutions, Corp](http://www.ortussolutions.com/) and cannot be altered or reproduced without the author's consent. All content is provided _"As-Is"_ and can be freely distributed.
 
 * The majority of code examples in this book are done in `cfscript`.
 * The majority of code generation and running of examples are done via **CommandBox**: The ColdFusion (CFML) CLI, Package Manager, REPL - [https://www.ortussolutions.com/products/commandbox](https://www.ortussolutions.com/products/commandbox)​
@@ -15,7 +15,7 @@ The information in this book is distributed “as is”, without warranty. The a
 
 ### Contributing <a href="#contributing" id="contributing"></a>
 
-We highly encourage contributions to this book and our open-source software. The source code for this book can be found in our [GitHub repository](https://github.com/ortus-docs/cbvalidation-docs) where you can submit pull requests.
+We highly encourage contributions to this book and our open-source software. The source code for this book can be found in our [GitHub repository](https://github.com/ortus-docs/cfmigrations-docs) where you can submit pull requests.
 
 ### Charitable Proceeds <a href="#charitable-proceeds" id="charitable-proceeds"></a>
 
