@@ -1,3 +1,9 @@
+---
+description: >-
+  cfMigrations is a module that provides schema migrations for ColdBox
+  applications.
+---
+
 # Introduction
 
 ## Introduction
