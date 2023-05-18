@@ -15,8 +15,8 @@ component {
         qb.table( "users" ).insert(
             mockdata.mock(
                 $num = 25,
-                "firstName": "firstName",
-                "lastName": "lastName",
+                "firstName": "fname",
+                "lastName": "lname",
                 "email": "email",
                 "password": "string-secure"
             )
