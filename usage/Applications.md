@@ -99,7 +99,7 @@ component {
 }
 ```
 
-Migration files need to follow a specific naming convention — `YYYY_MM_DD_HHMISS_[describe_your_changes_here].cfc`. This is how `cfmigrations` knows in what order to run your migrations. Generating these files is made easier with the `migrate create` command from `commandbox-migrations`.
+Migration files need to follow a specific naming convention — `YYYY_MM_DD_HHMMSS_[describe_your_changes_here].cfc`. This is how `cfmigrations` knows in what order to run your migrations. Generating these files is made easier with the `migrate create` command from `commandbox-migrations`.
 
 Using the injected `qb` instance, you can insert or update required data for your application.  If you want to create test data for your application, take a look at seeders below instead.
 
